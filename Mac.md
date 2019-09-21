@@ -23,6 +23,7 @@
 - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Postman]()
+- [VS Code](https://code.visualstudio.com/download)
 
 ## Apps via Mac App Store:
 - Things 3
