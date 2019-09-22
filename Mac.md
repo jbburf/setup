@@ -8,6 +8,10 @@
 - Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
 - Add path to Finder's toolbar
 - Remote Tags
+- Install Homebrew
+> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+- Install [SDKMan!](https://sdkman.io/install)
+> curl -s "https://get.sdkman.io" | bash
 
 ## Download Apps
 - [Slack Beta](https://slack.com/beta/mac)
@@ -16,7 +20,7 @@
 - [Chrome](https://www.google.com/chrome/)
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Preferences -> Profile -> Window -> Full Width Top of Screen
-  - Preferences -> Keys -> -> HotKey -> Show/hide all windows... CONTROL-`
+  - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
   - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
 - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
 - [Teleglam Desktop](https://desktop.telegram.org/)
