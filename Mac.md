@@ -28,6 +28,11 @@
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Postman]()
 - [VS Code](https://code.visualstudio.com/download)
+- [Cyberduck](https://cyberduck.io/download/)
+- [Superduper!]()
+- [VLC](https://www.videolan.org/vlc/download-macosx.html)
+- [Wireshark](https://www.wireshark.org/#download)
+- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
 
 ## Apps via Mac App Store:
 - Things 3
