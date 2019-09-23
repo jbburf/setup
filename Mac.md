@@ -12,6 +12,10 @@
 > ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - Install [SDKMan!](https://sdkman.io/install)
 > curl -s "https://get.sdkman.io" | bash
+- Install Cocoapods
+> sudo gem install cocoapods
+- Install MS Sql
+> npm i -g sql-cli
 
 ## Download Apps
 - [Slack Beta](https://slack.com/beta/mac)
@@ -22,13 +26,10 @@
 - [1Password](https://1password.com/downloads/mac/)
 - [Chrome](https://www.google.com/chrome/)
 - [iTerm 2](https://www.iterm2.com/downloads.html)
-  - Preferences -> Profile -> Window -> Full Width Top of Screen
-  - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
-  - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
 - [GitKraken](https://www.gitkraken.com/download/mac)
 - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
 - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
-- [Superduper!]()
+- [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - [VLC](https://www.videolan.org/vlc/download-macosx.html)
 - [Wireshark](https://www.wireshark.org/#download)
 - [Transmission](https://transmissionbt.com/download/)
@@ -38,11 +39,17 @@
 - [Sketch](https://www.sketch.com/get/)
 - [Abstract](https://app.abstract.com/download)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Postman]()
+- [Postman](https://www.getpostman.com/downloads/)
 - [VS Code](https://code.visualstudio.com/download)
 
 ## Configure
-- Things - setup sync via Things Cloud
+- iTerm 2
+  - Preferences -> Profile -> Window -> Full Width Top of Screen
+  - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
+  - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
+- Things
+  - setup sync via Things Cloud
+- System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 
 ## Apps via Mac App Store:
 - Things 3
