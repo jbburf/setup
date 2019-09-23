@@ -34,6 +34,35 @@
 - [Wireshark](https://www.wireshark.org/#download)
 - [Transmission](https://transmissionbt.com/download/)
 - [Gemini 2](https://macpaw.com/gemini)
+- Alfred 4
+- Android Studio
+- Axure RP 9
+- Azure Data Studio
+- Balsamiq Mockups 3
+- Brave
+- Calibre
+- Deltawalker
+- Firefox
+- Flotato
+- Flux
+- Gemini 2
+- Home Inventory
+- Icon Set Creator
+- IntelliJ IDEA
+- Little Snitch
+- Luna
+- MindNode
+- Miro
+- Mountain Duck
+- PDF Squeezer
+- Reflector 2
+- Robo 3T
+- RStudio
+- Sigil
+- Sonos
+- Tor Browser
+- VirtualBox
+- Vitamin R-3
 
 ## Work Specific Apps
 - [Sketch](https://www.sketch.com/get/)
