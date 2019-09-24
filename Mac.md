@@ -70,6 +70,7 @@
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Postman](https://www.getpostman.com/downloads/)
 - [VS Code](https://code.visualstudio.com/download)
+- [React Native setup](https://facebook.github.io/react-native/docs/getting-started)
 
 ## Configure
 - iTerm 2
