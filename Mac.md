@@ -80,6 +80,8 @@
 - Things
   - setup sync via Things Cloud
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
+- Chrome
+  - Remove "Warn Before Quitting" in the application menu
 
 ## Apps via Mac App Store:
 - Things 3
