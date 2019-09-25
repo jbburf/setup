@@ -71,6 +71,7 @@
 - [Postman](https://www.getpostman.com/downloads/)
 - [VS Code](https://code.visualstudio.com/download)
 - [React Native setup](https://facebook.github.io/react-native/docs/getting-started)
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 
 ## Configure
 - iTerm 2
