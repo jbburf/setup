@@ -87,6 +87,9 @@
 - [nvm](https://github.com/nvm-sh/nvm#installation-and-update) 
 - [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
 - [rvm](https://rvm.io/rvm/install)
+- [jq](https://stedolan.github.io/jq/download/)
+- [tmux](https://github.com/tmux/tmux)
+- [shellcheck](https://github.com/koalaman/shellcheck)
 
 ## Apps via Mac App Store:
 - Things 3
