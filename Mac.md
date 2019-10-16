@@ -90,6 +90,7 @@
 - [jq](https://stedolan.github.io/jq/download/)
 - [tmux](https://github.com/tmux/tmux)
 - [shellcheck](https://github.com/koalaman/shellcheck)
+- [Parallel](https://www.gnu.org/software/parallel/)
 
 ## Apps via Mac App Store:
 - Things 3
