@@ -2,48 +2,30 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 ####################
-#       ALIAS      #     
-####################
-
-alias ..='cd ..'
-alias clr='clear'
-alias finder='open .'
-alias ls='ls -aG'
-alias ll='ls -lhaG'
-alias profile='xcode ~/.bash_profile'
-alias reload='source ~/.zshrc'
-alias xcode='open -a Xcode'
-alias xcode-clean-derived="rm -rf ~/Library/Developer/Xcode/DerivedData/*"
-alias gco='git checkout'
-alias gcm='git commit -m'
-alias zshit='open -a "Visual Studio Code" ~/.zshrc'
-
-####################
 #   ENV VARIABLES  #
 ####################
 
-export DEFAULT_USER="ben.burford"
-export PATH="$HOME/scripts:${PATH}"
-export PATH=$PATH:~/npm
-export PATH=/usr/local/bin:$PATH # For brew, at least
-export ZSH="$HOME/.oh-my-zsh" # Path to your oh-my-zsh installation.
-    # NVM
+export DEFAULT_USER="jbburf"
+export REACT_EDITOR=code
+export REACT_DEBUGGER="open -a 'React Native Debugger'"
+export ZSH="$HOME/.oh-my-zsh"
 export NVM_DIR="$HOME/.nvm"
 . "$(brew --prefix nvm)/nvm.sh" # NVM Stuff
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-   # Golang
 export GOPATH=~/go-work/
-   # React
-export REACT_EDITOR=code
-export PATH=$PATH:"/Library/Java/Home/bin/":"/Applications/Xcode.app/Contents/Developer/usr/bin":"/usr/local/go/bin/":"~/Scripts"
-   # Python 3
-export PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
-
-   # Android development
 export ANDROID_HOME=$HOME/Library/Android/sdk
+
+####################
+#    PATH STUFF    #
+####################
+
+export PATH="$HOME/scripts:${PATH}"
+export PATH=$PATH:~/npm
+export PATH=/usr/local/bin:$PATH # For brew, at least
+export PATH=$PATH:"/Library/Java/Home/bin/":"/Applications/Xcode.app/Contents/Developer/usr/bin":"/usr/local/go/bin/":"~/Scripts"
+export PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}" # Python 3
 export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator
-# export ANDROID_SDK=ANDROID_HOME
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
@@ -54,7 +36,6 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="agnoster"
-# Remember to enable "Use buildin powerline glyths in iTerm2 profile -> text preferences"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -144,7 +125,22 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="~/.sdkman"
-[[ -s "~/.sdkman/bin/sdkman-init.sh" ]] && source "~/.sdkman/bin/sdkman-init.sh"
-source ~/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+####################
+#       ALIAS      #     
+####################
+
+alias ..='cd ..'
+alias clr='clear'
+alias finder='open .'
+alias ls='ls -aG'
+alias ll='ls -lhaG'
+alias profile='xcode ~/.bash_profile'
+alias reload='source ~/.zshrc'
+alias xcode='open -a Xcode'
+alias xcode-clean-derived="rm -rf ~/Library/Developer/Xcode/DerivedData/*"
+alias gco='git checkout'
+alias gcm='git commit -m'
+alias gmd='git merge origin/development'
+alias zshit='open -a "Visual Studio Code" ~/.zshrc'
+
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
