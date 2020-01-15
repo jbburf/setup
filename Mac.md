@@ -3,8 +3,8 @@
 - Set trackpad behavior
 - Set computer name
 - Touchbar Setup
-- Touch Mar shows: Expanded Control Strip
-- Remove Siri Button
+  - Touch Bar shows: Expanded Control Strip
+  - Remove Siri Button
 - Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
 - Add path to Finder's toolbar
 - Remote Tags
