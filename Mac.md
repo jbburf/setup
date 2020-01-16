@@ -9,10 +9,13 @@
   - Add path to Finder's toolbar
   - Remote Tags
 - Install Homebrew
+
 `> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install [SDKMan!](https://sdkman.io/install)
+
 `> curl -s "https://get.sdkman.io" | bash`
 - Install Cocoapods
+
 `> sudo gem install cocoapods`
 
 ## Download Apps
