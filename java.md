@@ -1,4 +1,4 @@
-I've developed Java applications in IntelliJ but I prefer to use Visual Studio Code with the following plugins:
+I've developed Java applications in [IntelliJ CE and Ultimate](https://www.jetbrains.com/idea/download/#section=mac) but I prefer to use Visual Studio Code with the following plugins:
 1. 
 1.
 1. 
