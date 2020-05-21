@@ -105,7 +105,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - Install [zsh](https://www.zsh.org/) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
   - `$ brew install zsh` then:
   - `$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-  - Configure your .zshrc, feel free to [borrow mine](/.zshrc)
+  - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
 
 ## Configure Apps
 - iTerm 2
