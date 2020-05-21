@@ -23,7 +23,7 @@
   - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
   - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
-  - [Mountain Duck](https://mountainduck.io/) + [Cyberduck]((https://cyberduck.io/download/)
+  - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
   - [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
   - [Alfred 4](https://www.alfredapp.com/) + PowerPack
