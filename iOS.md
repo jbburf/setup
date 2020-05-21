@@ -3,7 +3,91 @@
 ![iOS Second Screen](IMG_1479.png)
 
 ## iOS Apps
-- 
-
+- Slack
+- 1Password
+- Wink
+- Vitamin-R
+- Things
+- Telegram
+- Financial Apps
+  - Coinbase
+  - Wealthfront
+  - BECU
+  - Chase
+  - Citizens Bank
+  - BofA
+  - Fidelity
+  - Credit Karma
+  - PayPal
+  - Mint
+  - Capital One
+  - Venmo
+  - Cash App
+  - Lending Club
+  - Acorns
+  - Rally Rd.
+- Social Apps
+  - Facebook
+  - Twitter
+  - LinkedIn
+  - Instagram
+  - Snapchat
+  - Pinterest
+  - Fishbowl
+  - Yelp
+  - Nextdoor
+  - Skype
+  - TikTok
+- Messaging Apps
+  - Messenger
+  - FaceTime
+  - WhatsApp
+  - GroupMe
+  - Marco Polo
+  - WeChat
+  - Teams
+  - Bitmoji
+  - Discord
+  - Signal
+  - Apple Support
+- A/V Apps
+  - Plex
+  - Qfile
+  - YouTube
+  - Shazam
+  - Audible
+  - Podcasts
+  - Pandora
+  - TIDAL
+  - TV
+  - SoundStream 2
+  - SnapBridge
+  - ESPN
+  - QVR Pro Client
+  - Books
+  - Spotify
+- Games
+  - ...
+- Health Apps
+  - ...
+- Productivity Apps
+- Utilities
+- Consulting Apps
+- Dupes
+- Travel
+- Purchase Related Apps
+- Business Apps
+- Home Apps
+- Authenticator
+- Tesla
+- CocoonCam
+- MyNetDiary
+- Streaks
+- Bear
+- Plexamp
+- Sonos
+- TruFusion
+- Corona Virus Tracker
+  
 ## Additional Info
 [iOS 13 Settings](https://www.howtogeek.com/442550/just-updated-to-ios-13-change-these-settings-now/)
