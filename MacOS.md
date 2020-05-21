@@ -81,7 +81,7 @@
 - Icon Set Creator
 - Sigil
 
-Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
+Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
 ## Setup non-GUI Apps
 - Install [Homebrew](https://brew.sh/)
