@@ -87,19 +87,24 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 
 ## Setup non-GUI Apps
 - Install [Homebrew](https://brew.sh/)
-`> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  - `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install [SDKMan!](https://sdkman.io/install)
-`> curl -s "https://get.sdkman.io" | bash`
+  - `$ curl -s "https://get.sdkman.io" | bash`
 - Install [Cocoapods](https://cocoapods.org/)
-`> sudo gem install cocoapods`
+  - `$ sudo gem install cocoapods`
 - Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
+  - `$ brew install nvm`
   - Setup NVM to have past major LTS as well as current binaries
-- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
 - Install [rvm](https://rvm.io/rvm/install)
+- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
 - Install [jq](https://stedolan.github.io/jq/download/)
-- Insatll [shellcheck](https://github.com/koalaman/shellcheck)
+- Install [shellcheck](https://github.com/koalaman/shellcheck)
+  - `$ brew install shellcheck`
 - Install [Parallel](https://www.gnu.org/software/parallel/)
-- Install zsh + oh_my_zsh
+  - `$ brew install parallel`
+- Install [zsh](https://www.zsh.org/) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - `$ brew install zsh` then:
+  - `$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 ## Configure Apps
 - iTerm 2
