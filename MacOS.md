@@ -1,5 +1,6 @@
 ## Initial Setup
 - Set keyboard to DVORAK and remove QWERTY
+- Remove repeat delay on keyboard input
 - Set trackpad behavior
 - Set computer name
 - Touchbar Setup
@@ -8,6 +9,7 @@
 - Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
   - Add path to Finder's toolbar
   - Remove Tags
+- System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 
 ## Download Apps
 - Communication
@@ -106,7 +108,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
 - Things
   - setup sync via Things Cloud
-- System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 - Chrome
   - Remove "Warn Before Quitting" in the application menu
 
