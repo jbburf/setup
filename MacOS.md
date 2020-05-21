@@ -19,60 +19,78 @@
 `> sudo gem install cocoapods`
 
 ## Download Apps
-- [Slack Beta](https://slack.com/beta/mac)
-- [Teleglam Desktop](https://desktop.telegram.org/)
-- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
-- [Dropbox](https://www.dropbox.com/downloading)
-- [Cyberduck](https://cyberduck.io/download/)
-- [1Password](https://1password.com/downloads/mac/)
-- [Chrome](https://www.google.com/chrome/)
-- [iTerm 2](https://www.iterm2.com/downloads.html)
-- [GitKraken](https://www.gitkraken.com/download/mac)
-- [TG Pro](https://www.tunabellysoftware.com/tgpro/)
-- [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
-- [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
-- [VLC](https://www.videolan.org/vlc/download-macosx.html)
-- [Wireshark](https://www.wireshark.org/#download)
-- [Transmission](https://transmissionbt.com/download/)
+- Communication
+  - [Slack Beta](https://slack.com/beta/mac)
+  - [Teleglam Desktop](https://desktop.telegram.org/)
+  - [Discord](https://discord.com/download)
+- Browsers
+  - [Chrome](https://www.google.com/chrome/)
+  - [Brave](https://brave.com/download/)
+  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  - [Tor Browser](https://www.torproject.org/download/)
+- OS Extensions
+  - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
+  - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
+  - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
+  - [Mountain Duck](https://mountainduck.io/) + [Cyberduck]((https://cyberduck.io/download/)
+  - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+  - [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
+  - [Alfred 4](https://www.alfredapp.com/) + PowerPack
+  - [Bartender](https://www.macbartender.com/)
+  - [F.lux](https://justgetflux.com/)
+- Productivity
+  - [Resilio](https://www.resilio.com/individuals/)
+  - [Dropbox](https://www.dropbox.com/downloading)
+  - [1Password](https://1password.com/downloads/mac/)
+  - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
+  - [Home Inventory](https://binaryformations.com/products/home-inventory/)
+  - [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
+  - [Gemini 2](https://macpaw.com/gemini)
+  - [Deltawalker](https://www.deltawalker.com/download)
+  - [Things](https://culturedcode.com/things/)
+  - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
+  - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
+- Virtualization
+  - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
+  - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+  - VirtualBox
+- Media
+  - [VLC](https://www.videolan.org/vlc/download-macosx.html)
+  - [Transmission](https://transmissionbt.com/download/)
+  - [Airy](https://mac.eltima.com/airy-download.html)
+  - [Sonos](https://support.sonos.com/s/downloads)
+  - [Calibre]()
 - [Gemini 2](https://macpaw.com/gemini)
-- Alfred 4
-- Android Studio
-- Axure RP 9
-- Azure Data Studio
-- Balsamiq Mockups 3
-- Brave
-- Calibre
-- Deltawalker
-- Firefox
+- [Wireshark](https://www.wireshark.org/#download)
+- Design Software
+  - [Balsamiq Mockups 3](https://balsamiq.com/wireframes/desktop/)
+  - [Affinity Designer](https://affinity.serif.com/en-us/designer/)
+  - [Gimp](https://www.gimp.org/downloads/)
+  - [Sketch](https://www.sketch.com/get/)
+  - [Abstract](https://app.abstract.com/download)
+  - Miro
+  - MindNode
+- Software Development
+  - [iTerm 2](https://www.iterm2.com/downloads.html)
+  - [GitKraken](https://www.gitkraken.com/download/mac)
+  - [Postman](https://www.getpostman.com/downloads/)
+- Database Management
+  - [Robo 3T](https://robomongo.org/download)
+  - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+- IDEs
+  - [Visual Studio Code](https://code.visualstudio.com/download)
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
+  - [RStudio](https://rstudio.com/products/rstudio/download/)
+  - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
+  - [Android Studio](https://developer.android.com/studio)
+- Mobile Development
+  - [Reflector 3](https://www.airsquirrels.com/reflector/download)
 - Flotato
 - Flux
-- Gemini 2
-- Home Inventory
 - Icon Set Creator
-- IntelliJ IDEA
-- Little Snitch
-- Luna
-- MindNode
-- Miro
-- Mountain Duck
-- PDF Squeezer
-- Reflector 2
-- Robo 3T
-- RStudio
 - Sigil
-- Sonos
-- Tor Browser
-- VirtualBox
-- Vitamin R-3
 
-## Work Specific Apps
-- [Sketch](https://www.sketch.com/get/)
-- [Abstract](https://app.abstract.com/download)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Postman](https://www.getpostman.com/downloads/)
-- [VS Code](https://code.visualstudio.com/download)
-- [React Native setup](https://facebook.github.io/react-native/docs/getting-started)
-- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
+Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
 ## Configure
 - iTerm 2
@@ -84,7 +102,6 @@
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 - Chrome
   - Remove "Warn Before Quitting" in the application menu
-- [SoundFlower](https://github.com/mattingalls/Soundflower/releases) for Quicktime screen recordings with audio
 - [Homebrew](https://brew.sh/)
 - [nvm](https://github.com/nvm-sh/nvm#installation-and-update) 
 - [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
@@ -94,9 +111,7 @@
 - [shellcheck](https://github.com/koalaman/shellcheck)
 - [Parallel](https://www.gnu.org/software/parallel/)
 
-## Apps via Mac App Store:
-- Things 3
-- Deliveries
-- xCode
-- The Unarchiver
-- Growl
+## Historical
+- [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
+- [Growl](http://growl.info/downloads) was a great notification app that has been made all but obsolete by the MacOS notification center. Some people [still prefer](https://computers.tutsplus.com/tutorials/quick-tip-growl-vs-notification-center--mac-45845) Growl over the notification center, I've switched away from it.
+- [TotalFinder](https://totalfinder.binaryage.com/) was a great little app that provide a much better terminal visor than iTerm2. Unfortunately it died with SIP in MacOS Mojave.
