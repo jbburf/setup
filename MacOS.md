@@ -8,15 +8,6 @@
 - Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
   - Add path to Finder's toolbar
   - Remove Tags
-- Install Homebrew
-
-`> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-- Install [SDKMan!](https://sdkman.io/install)
-
-`> curl -s "https://get.sdkman.io" | bash`
-- Install Cocoapods
-
-`> sudo gem install cocoapods`
 
 ## Download Apps
 - Communication
@@ -92,7 +83,23 @@
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
-## Configure
+## Setup non-GUI Apps
+- Install [Homebrew](https://brew.sh/)
+`> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- Install [SDKMan!](https://sdkman.io/install)
+`> curl -s "https://get.sdkman.io" | bash`
+- Install [Cocoapods](https://cocoapods.org/)
+`> sudo gem install cocoapods`
+- Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
+  - Setup NVM to have past major LTS as well as current binaries
+- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
+- Install [rvm](https://rvm.io/rvm/install)
+- Install [jq](https://stedolan.github.io/jq/download/)
+- Insatll [shellcheck](https://github.com/koalaman/shellcheck)
+- Install [Parallel](https://www.gnu.org/software/parallel/)
+- Install zsh + oh_my_zsh
+
+## Configure Apps
 - iTerm 2
   - Preferences -> Profile -> Window -> Full Width Top of Screen
   - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
@@ -102,14 +109,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 - Chrome
   - Remove "Warn Before Quitting" in the application menu
-- [Homebrew](https://brew.sh/)
-- [nvm](https://github.com/nvm-sh/nvm#installation-and-update) 
-- [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
-- [rvm](https://rvm.io/rvm/install)
-- [jq](https://stedolan.github.io/jq/download/)
-- [tmux](https://github.com/tmux/tmux)
-- [shellcheck](https://github.com/koalaman/shellcheck)
-- [Parallel](https://www.gnu.org/software/parallel/)
 
 ## Historical
 - [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
