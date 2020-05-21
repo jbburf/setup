@@ -84,6 +84,7 @@
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 - Chrome
   - Remove "Warn Before Quitting" in the application menu
+- [SoundFlower](https://github.com/mattingalls/Soundflower/releases) for Quicktime screen recordings with audio
 - [Homebrew](https://brew.sh/)
 - [nvm](https://github.com/nvm-sh/nvm#installation-and-update) 
 - [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
