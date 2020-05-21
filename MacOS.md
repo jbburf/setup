@@ -7,7 +7,7 @@
   - Remove Siri Button
 - Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
   - Add path to Finder's toolbar
-  - Remote Tags
+  - Remove Tags
 - Install Homebrew
 
 `> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
