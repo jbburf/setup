@@ -10,6 +10,7 @@
   - Add path to Finder's toolbar
   - Remove Tags
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
+- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 
 ## Download Apps
 - Communication
