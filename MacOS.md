@@ -10,7 +10,6 @@
   - Add path to Finder's toolbar
   - Remove Tags
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
-- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 
 ## Download Apps
 - Communication
@@ -107,6 +106,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - `$ brew install zsh` then:
   - `$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
+  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 
 ## Configure Apps
 - iTerm 2
