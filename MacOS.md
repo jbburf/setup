@@ -1,6 +1,7 @@
 ## Initial OS Setup
 - Keyboard Settings
   - System Prefeerences -> Keyboard -> Input Sources, Add DVORAK and remove QWERTY
+  - Uncheck `Show Input menu in menu bar`
   - Remove repeat delay on keyboard input
 - Trackpad Settings
 - Set computer name
