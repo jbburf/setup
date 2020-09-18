@@ -110,11 +110,10 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 
 ## Configure Apps
 - iTerm 2
-  - Preferences -> Profile -> Window -> Full Width Top of Screen
+  - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
+  - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
   - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
   - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
-- Things
-  - setup sync via Things Cloud
 - Chrome
   - Remove "Warn Before Quitting" in the application menu
 
