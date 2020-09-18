@@ -106,6 +106,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - Uncheck all expect `Badge app icon`
 
 ## Setup non-GUI Apps
+- Install Xcode Commandline tools (without installing Xcode) `$ xcode-select --install`
 - Install [Homebrew](https://brew.sh/)
   - `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install [SDKMan!](https://sdkman.io/install)
