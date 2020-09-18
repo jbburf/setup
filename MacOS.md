@@ -107,6 +107,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 
 ## Setup non-GUI Apps
 - Install Xcode Commandline tools (without installing Xcode) `$ xcode-select --install`
+  - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
 - Install [Homebrew](https://brew.sh/)
   - `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install [SDKMan!](https://sdkman.io/install)
