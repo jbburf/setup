@@ -100,6 +100,11 @@
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
+## Notification Settings
+- Mail
+  - Mail Alert Style: None
+  - Uncheck all expect `Badge app icon`
+
 ## Setup non-GUI Apps
 - Install [Homebrew](https://brew.sh/)
   - `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
