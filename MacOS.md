@@ -24,6 +24,7 @@
   - Configure application and begin Smart Sync
 - [1Password](https://1password.com/downloads/mac/)
 - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
+  - Enter activation code, set menu bar to show temp with colors and application icon.
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
 - [Things](https://culturedcode.com/things/)
   - Configure Things Cloud and let it sync
