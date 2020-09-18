@@ -1,46 +1,60 @@
-## Initial Setup
-- Set keyboard to DVORAK and remove QWERTY
-- Remove repeat delay on keyboard input
-- Set trackpad behavior
+## Initial OS Setup
+- Keyboard Settings
+  - System Prefeerences -> Keyboard -> Input Sources, Add DVORAK and remove QWERTY
+  - Remove repeat delay on keyboard input
+- Trackpad Settings
 - Set computer name
-- Touchbar Setup
+- Touchbar Settings
   - Touch Bar shows: Expanded Control Strip
   - Remove Siri Button
-- Change Finder Prefs (New windows default to ~/, don't show External Disks etc on desktop)
+- Finder Settings
+  - Finder Menu -> Preferences, unchecked all items shown on desktop
+  - New windows shows: user directory aka `~/{user}` or `~/ben` for me
+  - Uncheck all tags
+  - Set sidebar to show: Recents, Downloads, User Folder. Uncheck all iCloud and check all locations except this computer being setup.
+- Finder View Options
+  - On the Desktop: View Menu -> Show View Options, set Stack By to `Kind`
   - Add path to Finder's toolbar
-  - Remove Tags
+- Finder Window Toolbar
+  - Add `Path` then `View` icons, remove all others
 - System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 
 ## Download Apps
+- [Dropbox](https://www.dropbox.com/downloading)
+  - Configure application and begin Smart Sync
+- [1Password](https://1password.com/downloads/mac/)
+- [TG Pro](https://www.tunabellysoftware.com/tgpro/)
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
+- [Things](https://culturedcode.com/things/)
+  - Configure Things Cloud and let it sync
+- [Alfred 4](https://www.alfredapp.com/) + PowerPack
+  - Skip migration and sync to `~/dropbox/app_sync` and enter licence code
+  - Set Spotlight shortcut to `⌥ + space` via System Preferences -> Keyboard -> Shortcuts -> Spotlight
+  - Set Alfred's shortcut to `⌘ + space` in Alfred preferences
+- [Bartender](https://www.macbartender.com/)
+- [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
+- [iTerm 2](https://www.iterm2.com/downloads.html)
+  - Import my profile or set manually
 - Communication
   - [Slack Beta](https://slack.com/beta/mac)
   - [Teleglam Desktop](https://desktop.telegram.org/)
   - [Discord](https://discord.com/download)
 - Browsers
-  - [Chrome](https://www.google.com/chrome/)
   - [Brave](https://brave.com/download/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Tor Browser](https://www.torproject.org/download/)
 - OS Extensions
   - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
-  - [TG Pro](https://www.tunabellysoftware.com/tgpro/)
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
   - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
-  - [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
-  - [Alfred 4](https://www.alfredapp.com/) + PowerPack
-  - [Bartender](https://www.macbartender.com/)
   - [F.lux](https://justgetflux.com/)
 - Productivity
   - [Resilio](https://www.resilio.com/individuals/)
-  - [Dropbox](https://www.dropbox.com/downloading)
-  - [1Password](https://1password.com/downloads/mac/)
   - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
   - [Home Inventory](https://binaryformations.com/products/home-inventory/)
-  - [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
   - [Gemini 2](https://macpaw.com/gemini)
   - [Deltawalker](https://www.deltawalker.com/download)
-  - [Things](https://culturedcode.com/things/)
   - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
   - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 - Virtualization
@@ -64,7 +78,6 @@
   - Miro
   - MindNode
 - Software Development
-  - [iTerm 2](https://www.iterm2.com/downloads.html)
   - [GitKraken](https://www.gitkraken.com/download/mac)
   - [Postman](https://www.getpostman.com/downloads/)
 - Database Management
