@@ -34,10 +34,17 @@
   - Set Spotlight shortcut to `⌥ + space` via System Preferences -> Keyboard -> Shortcuts -> Spotlight
   - Set Alfred's shortcut to `⌘ + space` in Alfred preferences
 - [Bartender](https://www.macbartender.com/)
+- [Chrome](https://www.google.com/chrome/)
+  - Add my profiles
+  - Remove "Warn Before Quitting" in the application menu
 - [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import my profile or set manually
+    - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
+    - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
+    - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
+    - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
   - Configure .zshrc with Code with $ `code ~/.zshrc`
 - Communication
   - [Slack Beta](https://slack.com/beta/mac)
@@ -129,15 +136,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - $ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
   - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
-
-## Configure Apps
-- iTerm 2
-  - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
-  - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
-  - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
-  - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
-- Chrome
-  - Remove "Warn Before Quitting" in the application menu
 
 ## Historical
 - [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
