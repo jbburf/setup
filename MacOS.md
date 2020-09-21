@@ -41,12 +41,11 @@
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - Install shell command 'code', ⌘ + ⇧ + P then type `Shell command` and it will autofill the rest.
 - [iTerm 2](https://www.iterm2.com/downloads.html)
-  - Import my profile or set manually
+  - Import [my profile](/iTerm-profile-jbb.json) or set manually:
     - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
     - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
     - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
     - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
-  - Configure .zshrc with Code with $ `code ~/.zshrc`
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
   - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
   - CLT can be installed via $ `xcode-select --install`
