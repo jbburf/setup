@@ -47,6 +47,31 @@
     - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
     - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
   - Configure .zshrc with Code with $ `code ~/.zshrc`
+- [Xcode]()
+  - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
+  - CLT can be installed via $ `xcode-select --install`
+  - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
+- Install [Homebrew](https://brew.sh/)
+  - Using iTerm enter the following: $ `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+- Install [zsh](https://www.zsh.org/) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - $ `brew install zsh` then:
+  - $ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+  - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
+- Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
+  - $ `brew install nvm`
+  - Setup NVM to have past major LTS as well as current binaries
+- Install [shellcheck](https://github.com/koalaman/shellcheck)
+  - $ `brew install shellcheck`
+- Install [SDKMan!](https://sdkman.io/install) if you're planning any Java development
+  - $ `curl -s "https://get.sdkman.io" | bash`
+- Install [Cocoapods](https://cocoapods.org/) if you're planning iOS development
+  - $ `sudo gem install cocoapods`
+- Install [rvm](https://rvm.io/rvm/install)
+- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
+- Install [jq](https://stedolan.github.io/jq/download/)
+- Install [Parallel](https://www.gnu.org/software/parallel/)
+  - $ `brew install parallel`
+- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 - Communication
   - [Slack Beta](https://slack.com/beta/mac)
   - [Teleglam Desktop](https://desktop.telegram.org/)
@@ -112,31 +137,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - Mail
   - Mail Alert Style: None
   - Uncheck all expect `Badge app icon`
-
-## Setup non-GUI Apps
-- Install Xcode Commandline tools (without installing Xcode) $ `xcode-select --install`
-  - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
-- Install [Homebrew](https://brew.sh/)
-  - $ `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-- Install [SDKMan!](https://sdkman.io/install)
-  - $ `curl -s "https://get.sdkman.io" | bash`
-- Install [Cocoapods](https://cocoapods.org/)
-  - $ `sudo gem install cocoapods`
-- Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
-  - $ `brew install nvm`
-  - Setup NVM to have past major LTS as well as current binaries
-- Install [rvm](https://rvm.io/rvm/install)
-- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
-- Install [jq](https://stedolan.github.io/jq/download/)
-- Install [shellcheck](https://github.com/koalaman/shellcheck)
-  - $ `brew install shellcheck`
-- Install [Parallel](https://www.gnu.org/software/parallel/)
-  - $ `brew install parallel`
-- Install [zsh](https://www.zsh.org/) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-  - $ `brew install zsh` then:
-  - $ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-  - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
-  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 
 ## Historical
 - [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
