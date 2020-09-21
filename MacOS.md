@@ -47,7 +47,7 @@
     - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
     - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
   - Configure .zshrc with Code with $ `code ~/.zshrc`
-- [Xcode]()
+- [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
   - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
   - CLT can be installed via $ `xcode-select --install`
   - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
@@ -72,6 +72,17 @@
 - Install [Parallel](https://www.gnu.org/software/parallel/)
   - $ `brew install parallel`
 - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
+- [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
+- [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
+- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
+- [Resilio](https://www.resilio.com/individuals/)
+- [Home Inventory](https://binaryformations.com/products/home-inventory/)
+- [Gemini 2](https://macpaw.com/gemini)
+- [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
+
+Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
+
+## Additional Apps
 - Communication
   - [Slack Beta](https://slack.com/beta/mac)
   - [Teleglam Desktop](https://desktop.telegram.org/)
@@ -81,17 +92,10 @@
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Tor Browser](https://www.torproject.org/download/)
 - OS Extensions
-  - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
-  - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 - Productivity
-  - [Resilio](https://www.resilio.com/individuals/)
-  - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
-  - [Home Inventory](https://binaryformations.com/products/home-inventory/)
-  - [Gemini 2](https://macpaw.com/gemini)
   - [Deltawalker](https://www.deltawalker.com/download)
-  - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
   - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 - Virtualization
   - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
@@ -111,18 +115,17 @@
   - [Gimp](https://www.gimp.org/downloads/)
   - [Sketch](https://www.sketch.com/get/)
   - [Abstract](https://app.abstract.com/download)
-  - Miro
-  - MindNode
+  - [Miro](https://miro.com/apps/)
+  - [MindNode](https://mindnode.com/download)
 - Software Development
   - [GitKraken](https://www.gitkraken.com/download/mac)
   - [Postman](https://www.getpostman.com/downloads/)
 - Database Management
   - [Robo 3T](https://robomongo.org/download)
   - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
-- IDEs
+- More IDEs
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
   - [RStudio](https://rstudio.com/products/rstudio/download/)
-  - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
   - [Android Studio](https://developer.android.com/studio)
 - Mobile Development
   - [Reflector 3](https://www.airsquirrels.com/reflector/download)
@@ -130,8 +133,6 @@
 - Flux
 - Icon Set Creator
 - Sigil
-
-Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
 ## Notification Settings
 - Mail
