@@ -35,8 +35,10 @@
   - Set Alfred's shortcut to `⌘ + space` in Alfred preferences
 - [Bartender](https://www.macbartender.com/)
 - [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import my profile or set manually
+  - Configure .zshrc with Code with $ `code ~/.zshrc`
 - Communication
   - [Slack Beta](https://slack.com/beta/mac)
   - [Teleglam Desktop](https://desktop.telegram.org/)
@@ -50,7 +52,6 @@
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
   - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
-  - [F.lux](https://justgetflux.com/)
 - Productivity
   - [Resilio](https://www.resilio.com/individuals/)
   - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
@@ -86,7 +87,6 @@
   - [Robo 3T](https://robomongo.org/download)
   - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 - IDEs
-  - [Visual Studio Code](https://code.visualstudio.com/download)
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
   - [RStudio](https://rstudio.com/products/rstudio/download/)
   - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
@@ -143,3 +143,4 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
 - [Growl](http://growl.info/downloads) was a great notification app that has been made all but obsolete by the MacOS notification center. Some people [still prefer](https://computers.tutsplus.com/tutorials/quick-tip-growl-vs-notification-center--mac-45845) Growl over the notification center, I've switched away from it.
 - [TotalFinder](https://totalfinder.binaryage.com/) was a great little app that provide a much better terminal visor than iTerm2. Unfortunately it died with SIP in MacOS Mojave.
+- [F.lux](https://justgetflux.com/) has been great for years but Apple has finally copied its functionality with Night Shift and so I have moved to using the native solution instead of using this app (though I like it better).
