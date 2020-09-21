@@ -50,15 +50,14 @@
   - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
   - CLT can be installed via $ `xcode-select --install`
   - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
-- Install [Homebrew](https://brew.sh/)
-  - Using iTerm enter the following: $ `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-- Install [zsh](https://www.zsh.org/) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-  - $ `brew install zsh` then:
-  - $ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-  - Configure your .zshrc, feel free to [borrow mine](/.zshrc).
+- Install [Homebrew](https://brew.sh/) with $`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+- Install [zsh](https://www.zsh.org/) with $`brew install zsh`
+- Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) with $`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+- Install [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) with $ `brew install zsh-syntax-highlighting`
 - Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
   - $ `brew install nvm`
   - Setup NVM to have past major LTS as well as current binaries
+- Configure your `.zshrc`, feel free to [borrow mine](/.zshrc).
 - Install [shellcheck](https://github.com/koalaman/shellcheck)
   - $ `brew install shellcheck`
 - Install [SDKMan!](https://sdkman.io/install) if you're planning any Java development
