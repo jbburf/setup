@@ -69,6 +69,7 @@
 - Install [rvm](https://rvm.io/rvm/install)
 - Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
 - Install [jq](https://stedolan.github.io/jq/download/)
+ - $ `brew install jq`
 - Install [Parallel](https://www.gnu.org/software/parallel/)
   - $ `brew install parallel`
 - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
