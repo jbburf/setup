@@ -39,6 +39,7 @@
   - Remove "Warn Before Quitting" in the application menu
 - [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+  - Install shell command 'code', ⌘ + ⇧ + P then type `Shell command` and it will autofill the rest.
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import my profile or set manually
     - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
