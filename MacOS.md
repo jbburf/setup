@@ -64,12 +64,10 @@
   - $ `curl -s "https://get.sdkman.io" | bash`
 - Install [Cocoapods](https://cocoapods.org/) if you're planning iOS development
   - $ `sudo gem install cocoapods`
+- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html) with $`brew install gpg2`
+- Install [jq](https://stedolan.github.io/jq/download/) with $`brew install jq`
+- Install [Parallel](https://www.gnu.org/software/parallel/) with $`brew install parallel`
 - Install [rvm](https://rvm.io/rvm/install)
-- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html)
-- Install [jq](https://stedolan.github.io/jq/download/)
- - $ `brew install jq`
-- Install [Parallel](https://www.gnu.org/software/parallel/)
-  - $ `brew install parallel`
 - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
 - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
 - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
