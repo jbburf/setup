@@ -68,7 +68,7 @@
 - Install [jq](https://stedolan.github.io/jq/download/) with $`brew install jq`
 - Install [Parallel](https://www.gnu.org/software/parallel/) with $`brew install parallel`
 - Install [rvm](https://rvm.io/rvm/install)
-- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder
+- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew cask install WebPQuickLook`
 - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
 - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
 - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
