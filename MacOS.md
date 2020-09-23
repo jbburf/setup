@@ -135,6 +135,9 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - Mail
   - Mail Alert Style: None
   - Uncheck all expect `Badge app icon`
+  
+## MacOS Processes
+- This will be broken out into its own section about which processes to block for now [reversetemplated](https://www.manpagez.com/man/8/reversetemplated/)
 
 ## Historical
 - [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
