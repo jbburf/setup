@@ -55,7 +55,7 @@
 - Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) with $`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - Install [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) with $ `brew install zsh-syntax-highlighting`
 - Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
-  - Brew is not a supported install method, check [NVM's github](https://github.com/nvm-sh/nvm#install--update-script)
+  - Brew is not a supported install method, check [NVM's github](https://github.com/nvm-sh/nvm#install--update-script) or use the next line:
   - $ `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash`
   - Setup NVM to have useful past even releases as well as current LTS
 - Configure your `.zshrc`, feel free to [borrow mine](/.zshrc).
