@@ -69,9 +69,6 @@
 - Install [jq](https://stedolan.github.io/jq/download/) with $`brew install jq`
 - Install [Parallel](https://www.gnu.org/software/parallel/) with $`brew install parallel`
 - Install [rvm](https://rvm.io/rvm/install)
-- [Resilio](https://www.resilio.com/individuals/)
-- [Home Inventory](https://binaryformations.com/products/home-inventory/)
-- [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
@@ -94,7 +91,9 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - [Deltawalker](https://www.deltawalker.com/download)
   - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
   - [Gemini 2](https://macpaw.com/gemini)
-- [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
+  - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
+  - [Home Inventory](https://binaryformations.com/products/home-inventory/)
+  - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
 - Virtualization
   - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
   - [Docker Desktop](https://www.docker.com/products/docker-desktop)
@@ -105,7 +104,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - [Airy](https://mac.eltima.com/airy-download.html)
   - [Sonos](https://support.sonos.com/s/downloads)
   - [Calibre]()
-- [Gemini 2](https://macpaw.com/gemini)
+  - [Resilio](https://www.resilio.com/individuals/)
 - [Wireshark](https://www.wireshark.org/#download)
 - Design Software
   - [Balsamiq Mockups 3](https://balsamiq.com/wireframes/desktop/)
@@ -127,10 +126,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - [Android Studio](https://developer.android.com/studio)
 - Mobile Development
   - [Reflector 3](https://www.airsquirrels.com/reflector/download)
-- Flotato
-- Flux
-- Icon Set Creator
-- Sigil
 
 ## Notification Settings
 - Mail
