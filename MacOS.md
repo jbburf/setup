@@ -84,7 +84,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - OS Extensions
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
-  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew cask install WebPQuickLook`
+  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew install --cask WebPQuickLook`
 - [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
 - [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
 - Productivity
