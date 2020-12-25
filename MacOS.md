@@ -69,13 +69,8 @@
 - Install [jq](https://stedolan.github.io/jq/download/) with $`brew install jq`
 - Install [Parallel](https://www.gnu.org/software/parallel/) with $`brew install parallel`
 - Install [rvm](https://rvm.io/rvm/install)
-- Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew cask install WebPQuickLook`
-- [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
-- [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
-- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
 - [Resilio](https://www.resilio.com/individuals/)
 - [Home Inventory](https://binaryformations.com/products/home-inventory/)
-- [Gemini 2](https://macpaw.com/gemini)
 - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
@@ -92,13 +87,18 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - OS Extensions
   - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
   - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew cask install WebPQuickLook`
+- [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
+- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
 - Productivity
   - [Deltawalker](https://www.deltawalker.com/download)
   - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
+  - [Gemini 2](https://macpaw.com/gemini)
+- [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
 - Virtualization
   - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
   - [Docker Desktop](https://www.docker.com/products/docker-desktop)
-  - VirtualBox
+  - [VirtualBox](https://www.virtualbox.org)
 - Media
   - [VLC](https://www.videolan.org/vlc/download-macosx.html)
   - [Transmission](https://transmissionbt.com/download/)
