@@ -46,6 +46,7 @@
     - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
     - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
     - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
+  - Setup [visor behavior] on ⌥ + ⌥ (https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) (like [TotalFinder](https://totalfinder.binaryage.com))
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
   - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
   - CLT can be installed via $ `xcode-select --install`
