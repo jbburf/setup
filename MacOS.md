@@ -136,9 +136,3 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   
 ## MacOS Processes
 - This will be broken out into its own section about which processes to block for now [reversetemplated](https://www.manpagez.com/man/8/reversetemplated/)
-
-## Historical
-- [Luna](https://lunadisplay.com/pages/hello) was a great app that has pretty much been rendered obsolete with MacOS 10.15 and iOS 13
-- [Growl](http://growl.info/downloads) was a great notification app that has been made all but obsolete by the MacOS notification center. Some people [still prefer](https://computers.tutsplus.com/tutorials/quick-tip-growl-vs-notification-center--mac-45845) Growl over the notification center, I've switched away from it.
-- [TotalFinder](https://totalfinder.binaryage.com/) was a great little app that provide a much better terminal visor than iTerm2. Unfortunately it died with SIP in MacOS Mojave.
-- [F.lux](https://justgetflux.com/) has been great for years but Apple has finally copied its functionality with Night Shift and so I have moved to using the native solution instead of using this app (though I like it better).
