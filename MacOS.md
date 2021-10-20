@@ -41,6 +41,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - Sign in with GitHub on enable config syncing
   - Install shell command 'code', ⌘ + ⇧ + P then type `Shell command` and it will autofill the rest.
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) if I'm using external monitors.
 
 ## CLI Setup
 - [iTerm 2](https://www.iterm2.com/downloads.html)
