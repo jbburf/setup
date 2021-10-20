@@ -41,17 +41,19 @@
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - Sign in with GitHub on enable config syncing
   - Install shell command 'code', ⌘ + ⇧ + P then type `Shell command` and it will autofill the rest.
+
+## CLI Setup
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import [my profile](/iTerm-profile-jbb.json) or set manually:
     - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
     - Preferences -> Profile -> Transperancy = 25% && Blur = 50%
     - Preferences -> Keys -> HotKey -> Show/hide all windows... CONTROL-`
     - Preferences -> Profile -> Text -> Use build-in Powerline glyphs
-  - Setup [visor behavior] on ⌥ + ⌥ (https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) (like [TotalFinder](https://totalfinder.binaryage.com))
+  - Setup [visor behavior](https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen) on ⌥ + ⌥ (like [TotalFinder](https://totalfinder.binaryage.com))
 - [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
-  - I usually just install CLT (commandline tools) seperately and skip Xcode unless I need to do mobile development.
+  - Just install CLT (commandline tools) seperately and skip Xcode unless I need to do iOS/MacOS development.
   - CLT can be installed via $ `xcode-select --install`
-  - Note: If you're running a beta verion of MacOS like I am, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
+  - Note: If you're running a beta verion of MacOS, you may need to download CLT directly from [Apple here](https://developer.apple.com/download/more/).
 - Install [Homebrew](https://brew.sh/) with $`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 - Install [zsh](https://www.zsh.org/) with $`brew install zsh`
 - Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) with $`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
@@ -59,18 +61,10 @@
 - Install [nvm](https://github.com/nvm-sh/nvm#installation-and-update)
   - Brew is not a supported install method, check [NVM's github](https://github.com/nvm-sh/nvm#install--update-script) or use the next line:
   - $ `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash`
-  - Setup NVM to have useful past even releases as well as current LTS
+  - Setup NVM to have current Node LTS as well as any previous stable releases needed
 - Configure your `.zshrc`, feel free to [borrow mine](/.zshrc).
 - Install [shellcheck](https://github.com/koalaman/shellcheck)
   - $ `brew install shellcheck`
-- Install [SDKMan!](https://sdkman.io/install) if you're planning any Java development
-  - $ `curl -s "https://get.sdkman.io" | bash`
-- Install [Cocoapods](https://cocoapods.org/) if you're planning iOS development
-  - $ `sudo gem install cocoapods`
-- Install [GPG2](https://docs.releng.linuxfoundation.org/en/latest/gpg.html) with $`brew install gpg2`
-- Install [jq](https://stedolan.github.io/jq/download/) with $`brew install jq`
-- Install [Parallel](https://www.gnu.org/software/parallel/) with $`brew install parallel`
-- Install [rvm](https://rvm.io/rvm/install)
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
@@ -105,9 +99,7 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - [Transmission](https://transmissionbt.com/download/)
   - [Airy](https://mac.eltima.com/airy-download.html)
   - [Sonos](https://support.sonos.com/s/downloads)
-  - [Calibre]()
   - [Resilio](https://www.resilio.com/individuals/)
-- [Wireshark](https://www.wireshark.org/#download)
 - Design Software
   - [Balsamiq Mockups 3](https://balsamiq.com/wireframes/desktop/)
   - [Affinity Designer](https://affinity.serif.com/en-us/designer/)
@@ -122,10 +114,6 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
 - Database Management
   - [Robo 3T](https://robomongo.org/download)
   - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
-- More IDEs
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=mac)
-  - [RStudio](https://rstudio.com/products/rstudio/download/)
-  - [Android Studio](https://developer.android.com/studio)
 - Mobile Development
   - [Reflector 3](https://www.airsquirrels.com/reflector/download)
 
@@ -135,4 +123,4 @@ Stack specific setup can be found in a seperate readme for [Javascript](/javascr
   - Uncheck all expect `Badge app icon`
   
 ## MacOS Processes
-- This will be broken out into its own section about which processes to block for now [reversetemplated](https://www.manpagez.com/man/8/reversetemplated/)
+- I generally block everything that doesn't seem to serve a good purpose with Little Snitch. I'd like to list out all processes that I block but have found that the default settings work pretty well.
