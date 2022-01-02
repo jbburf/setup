@@ -66,6 +66,7 @@
 - Configure your `.zshrc`, feel free to [borrow mine](/.zshrc).
 - Install [shellcheck](https://github.com/koalaman/shellcheck)
   - $ `brew install shellcheck`
+- The theme I run in ZSH takes care it if but [here is some great info on changing your prompt](https://phoenixnap.com/kb/change-bash-prompt-linux).
 
 Stack specific setup can be found in a seperate readme for [Javascript](/javascript.md), PHP, GoLang, C++, Rust, Python, Ruby and [Java](/java.md).
 
