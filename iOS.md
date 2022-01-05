@@ -1,7 +1,3 @@
-## My iOS Organization
-![iOS Home Screen](IMG_1478.png)
-![iOS Second Screen](IMG_1479.png)
-
 ## iOS Apps
 - Slack
 - 1Password
@@ -96,6 +92,10 @@
 - Sonos
 - TruFusion
 - Corona Virus Tracker
+
+## My iOS Organization
+![iOS Home Screen](IMG_1478.png)
+![iOS Second Screen](IMG_1479.png)
   
 ## Additional Info
 [iOS 13 Settings](https://www.howtogeek.com/442550/just-updated-to-ios-13-change-these-settings-now/)
