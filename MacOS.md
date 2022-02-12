@@ -19,6 +19,8 @@
   - Set sidebar to show: Recents, Downloads, User Folder. Uncheck all iCloud and check all locations except this computer being setup.
   - View Options -> Stack by Kind
   - Add path to Finder's toolbar
+  - Show status bar
+- Check for security updates & install
 
 ## Download Apps
 - [Dropbox](https://www.dropbox.com/downloading)
