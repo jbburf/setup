@@ -1,24 +1,24 @@
 ## Initial OS Setup
-- Keyboard Settings
-  - System Prefeerences -> Keyboard -> Input Sources, Add DVORAK and remove QWERTY
-  - Uncheck `Show Input menu in menu bar`
-  - Remove repeat delay on keyboard input
-- Trackpad Settings
-- Set computer name
-- Touchbar Settings
-  - Touch Bar shows: Expanded Control Strip
-  - Remove Siri Button
+- System Preferences
+  - Keyboard Settings
+    - System Prefeerences -> Keyboard -> Input Sources, Add DVORAK and remove QWERTY
+    - Uncheck `Show Input menu in menu bar`
+    - Remove repeat delay on keyboard input
+  - Trackpad Settings
+    - Enable: "Tap to click"
+    - Uncheck: "Scroll direction: Natural"
+  - Trackpad: Touchbar Settings
+    - Touch Bar shows: Expanded Control Strip
+    - Remove Siri Button
+  - Mission Control: uncheck "Automatically rearrange Spaces based on most recent use" 
+  - Sharing: Set computer name
 - Finder Settings
   - Finder Menu -> Preferences, unchecked all items shown on desktop
   - New windows shows: user directory aka `~/{user}` or `~/ben` for me
   - Uncheck all tags
   - Set sidebar to show: Recents, Downloads, User Folder. Uncheck all iCloud and check all locations except this computer being setup.
-- Finder View Options
-  - On the Desktop: View Menu -> Show View Options, set Stack By to `Kind`
+  - View Options -> Stack by Kind
   - Add path to Finder's toolbar
-- Finder Window Toolbar
-  - Add `Path` then `View` icons, remove all others
-- System Preferences -> Mission Control -> Disable Automatically rearrange Spaces based on recent use
 
 ## Download Apps
 - [Dropbox](https://www.dropbox.com/downloading)
