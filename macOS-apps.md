@@ -1,0 +1,71 @@
+## Download Apps
+- [Dropbox](https://www.dropbox.com/downloading)
+  - Configure application and begin Smart Sync
+- [1Password](https://1password.com/downloads/mac/)
+- [TG Pro](https://www.tunabellysoftware.com/tgpro/)
+  - Enter activation code, set menu bar to show temp with colors and application icon.
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html)
+- [Things](https://culturedcode.com/things/)
+  - Configure Things Cloud and let it sync
+- [Alfred 4](https://www.alfredapp.com/) + PowerPack
+  - Skip migration and sync to `~/dropbox/app_sync` and enter licence code
+  - Set Spotlight shortcut to `⌥ + space` via System Preferences -> Keyboard -> Shortcuts -> Spotlight
+  - Set Alfred's shortcut to `⌘ + space` in Alfred preferences
+- [Bartender](https://www.macbartender.com/)
+- [Chrome](https://www.google.com/chrome/)
+  - Add my profiles
+  - Remove "Warn Before Quitting" in the application menu
+- [Vitamin R-3](https://www.publicspace.net/Vitamin-R/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+  - Sign in with GitHub on enable config syncing
+  - Install shell command 'code', ⌘ + ⇧ + P then type `Shell command` and it will autofill the rest.
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) if I'm using external monitors.
+
+## Additional Apps
+- Communication
+  - [Slack Beta](https://slack.com/beta/mac)
+  - [Teleglam Desktop](https://desktop.telegram.org/)
+  - [Discord](https://discord.com/download)
+- Browsers
+  - [Brave](https://brave.com/download/)
+  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  - [Tor Browser](https://www.torproject.org/download/)
+- OS Extensions
+  - [SoundFlower](https://github.com/mattingalls/Soundflower/releases)
+  - [Superduper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
+  - Add [webP support](https://ourcodeworld.com/articles/read/1160/how-to-enable-webp-image-format-preview-on-the-macos-finder) to Finder with $`brew install --cask WebPQuickLook`
+- [Mountain Duck](https://mountainduck.io/) + [Cyberduck](https://cyberduck.io/download/)
+- [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/download/)
+- Productivity
+  - [Deltawalker](https://www.deltawalker.com/download)
+  - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353)
+  - [Gemini 2](https://macpaw.com/gemini)
+  - [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
+  - [Home Inventory](https://binaryformations.com/products/home-inventory/)
+  - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344)
+- Virtualization
+  - [Parallels Desktop](https://www.parallels.com/products/desktop/trial/)
+  - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+  - [VirtualBox](https://www.virtualbox.org)
+- Media
+  - [VLC](https://www.videolan.org/vlc/download-macosx.html)
+  - [Transmission](https://transmissionbt.com/download/)
+  - [Airy](https://mac.eltima.com/airy-download.html)
+  - [Sonos](https://support.sonos.com/s/downloads)
+  - [Resilio](https://www.resilio.com/individuals/)
+- Design Software
+  - [Balsamiq Mockups 3](https://balsamiq.com/wireframes/desktop/)
+  - [Affinity Designer](https://affinity.serif.com/en-us/designer/)
+  - [Gimp](https://www.gimp.org/downloads/)
+  - [Sketch](https://www.sketch.com/get/)
+  - [Abstract](https://app.abstract.com/download)
+  - [Miro](https://miro.com/apps/)
+  - [MindNode](https://mindnode.com/download)
+- Software Development
+  - [GitKraken](https://www.gitkraken.com/download/mac)
+  - [Postman](https://www.getpostman.com/downloads/)
+- Database Management
+  - [Robo 3T](https://robomongo.org/download)
+  - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+- Mobile Development
+  - [Reflector 3](https://www.airsquirrels.com/reflector/download)
