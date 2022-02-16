@@ -22,6 +22,8 @@
   - Show status bar
 - Check for security updates & install
 
+Next I [setup apps](/macOS-apps.md).
+
 ## CLI Setup
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import [my profile](/iTerm-profile-jbb.json) or set manually:
