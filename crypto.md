@@ -2,7 +2,7 @@
 
 Using [xmrig](https://xmrig.com/docs/miner/build/ubuntu) to mine [Monero](https://minexmr.com/miningguide) on Ubunto 20.04 VMs.
 
-Will be spinning up Quantum 
+Will be spinning up [Quantum](https://www.theqrl.org) with a few VMs to test performance of CPU mining compared to Monero.
 
 Using the [Monero Wallet](https://www.getmonero.org/downloads/#gui) with seperate wallets for each VM/pool group.
 
