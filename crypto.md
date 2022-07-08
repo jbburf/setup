@@ -7,4 +7,4 @@ Will be spinning up [Quantum](https://www.theqrl.org) with a few VMs to test per
 
 Using the [Monero Wallet](https://www.getmonero.org/downloads/#gui) with seperate wallets for each VM/pool group.
 
-So far I've been using pools [pools](https://pools.xmr.wiki/) to mine Monero. I plan to setup full mining / transactions outside of a pool.
+So far I've been using [XMR](https://pools.xmr.wiki/) [pools](https://www.investopedia.com/tech/how-do-mining-pools-work/) to mine Monero. I plan to setup solo mining / transactions outside of a pool in the near future.
