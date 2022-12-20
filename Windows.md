@@ -8,7 +8,7 @@ Windows Setup:
 - Set Chrome as default browser
 - Install [AutoHotKey](https://www.autohotkey.com/download/)
 - Install [`choco`](https://chocolatey.org/install)
-- Install Windows Terminal
-  - In Powershell: Y`choco install microsoft-windows-terminal`
+- Install Windows Terminal / [Cmder](https://cmder.app/) / [Hyper](https://hyper.is/)
+  - Windows Terminal in PowerShell: `choco install microsoft-windows-terminal`
 - Install `nvm`
 - Install `python`
