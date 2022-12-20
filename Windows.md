@@ -1,4 +1,4 @@
-Windows 10 Init
+Windows Setup:
 
 - Change keyboard to DVORAK {details}
 - If VM, remote login prompto {details}
@@ -7,6 +7,8 @@ Windows 10 Init
 - Download Chrome
 - Set Chrome as default browser
 - Install [AutoHotKey](https://www.autohotkey.com/download/)
-- Install `choco`
+- Install [`choco`](https://chocolatey.org/install)
+- Install Windows Terminal
+  - In Powershell: Y`choco install microsoft-windows-terminal`
 - Install `nvm`
 - Install `python`
