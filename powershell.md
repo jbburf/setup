@@ -1,0 +1,1 @@
+Syntax can be [found on the offical Microsoft site](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction) (based on the book: *PowerShell 101* by Mike F Robbins).
