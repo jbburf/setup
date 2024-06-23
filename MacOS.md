@@ -20,6 +20,8 @@
   - View Options -> Stack by Kind
   - Add path to Finder's toolbar
   - Show status bar
+- Messages
+  - Add [Subject line](https://gist.github.com/getaaron/a9dc64b6ea2fa8299af6b7077f4386ae)
 - Check for security updates & install
 
 Next I [setup apps](/macOS-apps.md).
