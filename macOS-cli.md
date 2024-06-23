@@ -1,6 +1,5 @@
 ## CLI Setup
-- Add subject line to Messages
-  - Run `defaults write com.apple.MobileSMS MMSShowSubject 1` when Messages is closed
+- Add [subject line](https://gist.github.com/getaaron/a9dc64b6ea2fa8299af6b7077f4386ae) to Messages
 - [iTerm 2](https://www.iterm2.com/downloads.html)
   - Import [my profile](/iTerm-profile-jbb.json) or set manually:
     - Preferences -> Profile -> Window -> Style -> Full Width Top of Screen
