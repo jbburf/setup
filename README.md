@@ -13,3 +13,5 @@ Languade / stack specific:
 Understanding the [OSI 7 layer network model](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/) and [subnetting](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/).
 
 Cloud learning and [AI](/ai.md). There's a great grouping of info about [AWS's SA cert here](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide).
+
+Information about my current [QNAP home server](/qnap.md).
