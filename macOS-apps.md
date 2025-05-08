@@ -9,7 +9,6 @@
   - Configure Things Cloud and let it sync
 - [Alfred 4](https://www.alfredapp.com/) + PowerPack
   - Skip migration and sync to `~/dropbox/app_sync` and enter licence code
-  - Set Spotlight shortcut to `⌥ + space` via System Preferences -> Keyboard -> Shortcuts -> Spotlight
   - Set Alfred's shortcut to `⌘ + space` in Alfred preferences
 - [Bartender](https://www.macbartender.com/)
 - [Chrome](https://www.google.com/chrome/)
