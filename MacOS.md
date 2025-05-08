@@ -4,6 +4,7 @@
     - System Prefeerences -> Keyboard -> Input Sources, Add DVORAK and remove QWERTY
     - Uncheck `Show Input menu in menu bar`
     - Remove repeat delay on keyboard input
+    - Change Spotlight key binding to Option-Space
   - Trackpad Settings
     - Enable: "Tap to click"
     - Uncheck: "Scroll direction: Natural"
