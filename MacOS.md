@@ -13,6 +13,7 @@
     - Remove Siri Button
   - Mission Control: uncheck "Automatically rearrange Spaces based on most recent use" 
   - Sharing: Set computer name
+  - Disable Password autofill
 - Finder Settings
   - Finder Menu -> Preferences, unchecked all items shown on desktop
   - New windows shows: user directory aka `~/{user}` or `~/ben` for me
