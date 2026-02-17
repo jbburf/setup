@@ -1,4 +1,4 @@
-# setup
+# Setup
 Description of my current (and historical) computer setup.
 
 I prefer to run [MacOS](/MacOS.md) and [iOS](/iOS.md) on my mobile devices. I run [Windows](/Windows.md) and linux in a VM (if I have to). Here is [my network setup](/network.md) with a pi-hole.
